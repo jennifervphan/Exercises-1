@@ -15,18 +15,18 @@ if (hacker1.length === hacker2.length) {
 }
 
 //loops
-/*
-var name = hacker1.toUpperCase();
-console.log(name.split('').join(' '));
-*/
+
+// var name = hacker1.toUpperCase();
+// console.log(name.split('').join(' '));
+
 
 var upperName = hacker1.toUpperCase();
 var spacedName = "";
-
 for (var j = 0; j < upperName.length; j++) {
     spacedName = spacedName + " " + upperName[j];
 }
 console.log(spacedName);
+
 
 var reversedName = "";
 for (var i = 0; i < hacker1.length; i++) {
