@@ -103,6 +103,7 @@ for (var i = 0; i < text.length; i++) {
 }
 console.log(`The text has ${totalWord} words.`);
 
+
 var totalTimes = 0;
 for (var n = 0; n < text.length; n++) {
     if (text[n] === " " && text[n + 1] === "e" && text[n + 2] === "t" && text[n + 3] === " ") {
