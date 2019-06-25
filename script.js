@@ -111,5 +111,4 @@ for (var n = 0; n < words.length; n++) {
         totalTimes += 1;
     }
 }
-
 console.log(`The word "et" appears ${totalTimes} time.`);
