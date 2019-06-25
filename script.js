@@ -87,9 +87,9 @@ function palindrome(newString) {
 
 //     }
 //     if (reversedName === newString) {
-//         console.log("yes");
+//         console.log("The text is a Palindrome."");
 //     } else {
-//         console.log("no");
+//         console.log("The text is not a Palindrome.");
 //     }
 // }
 
